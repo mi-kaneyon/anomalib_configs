@@ -5,3 +5,9 @@ config.yaml file and explain for anomalib
 - this is almost private using but I think save as public for knowledge.
 
 I hope it is someone's help of anomalib development.
+
+Please install anomalib first!
+# official repository
+https://github.com/openvinotoolkit/anomalib/blob/main/README.md
+
+
