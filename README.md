@@ -10,4 +10,5 @@ Please install anomalib first!
 # official repository
 https://github.com/openvinotoolkit/anomalib/blob/main/README.md
 
-
+# Update(19th Jul)
+- added patchcore config sample
